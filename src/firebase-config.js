@@ -1,0 +1,1 @@
+export const firebaseConfig={apiKey:"REEMPLAZAR",authDomain:"el-docente-digital.firebaseapp.com",projectId:"el-docente-digital",storageBucket:"el-docente-digital.firebasestorage.app",messagingSenderId:"95428110531",appId:"REEMPLAZAR"};

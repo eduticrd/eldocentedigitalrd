@@ -1,0 +1,1 @@
+import{auth}from"../core/firebase.js";import{onAuthStateChanged,signInWithEmailAndPassword,signOut}from"https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";export const watch=fn=>onAuthStateChanged(auth,fn),login=(e,p)=>signInWithEmailAndPassword(auth,e,p),logout=()=>signOut(auth);

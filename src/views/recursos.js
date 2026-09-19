@@ -1,0 +1,1 @@
+export async function mount(root){root.innerHTML="<section><h2>Recursos</h2><p>Esta vista no consulta datos privados.</p></section>"}
